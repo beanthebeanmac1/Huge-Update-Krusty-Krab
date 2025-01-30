@@ -1,3 +1,7 @@
-# UPDATE-Krusty-Krab-
-This is a joke project that I made to test my abilities, The white background is made by Chat gpt just saying. To set this website up please download all the files and click "index.html" Not "index2.html" but if you do index 2 is basically a 
-unfinished page that I made so yeah try this out.
+<h1>Huge Update!</h1>
+A lot of scripts are edited with Chat gpt. I made the main script and asked chat to make it
+look better
+
+This project was a remix of Shudda's project A project that remixed mine
+
+Please click index.html not the others click index first then the rest
