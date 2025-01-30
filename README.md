@@ -1,4 +1,4 @@
-#Huge Update!
+<h1>Huge Update!</h1>
 
 A lot of the script is made of Chat gpt but I still made the original code I just asked Chat to make it look more nice
 
